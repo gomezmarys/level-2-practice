@@ -34,7 +34,7 @@ console.log(exampleMenu.length); // how many items
 
 const menu = [
   "jerk bulgogi tacos",
-  "plantain boa",
+  "plantain bao",
   "gochujang oxtail bowl",
   "festival sliders",
 ];
